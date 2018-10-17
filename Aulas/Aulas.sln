@@ -11,7 +11,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula0910", "Aula0910\Aula09
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula1110_CalculadoraSimples", "Aula1110_CalculadoraSimples\Aula1110_CalculadoraSimples.vcxproj", "{31447CC7-199D-49D7-BECE-544FBB67F368}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calculadora_Aula1610", "Calculadora_Aula1610\Calculadora_Aula1610.vcxproj", "{C7DA900E-798D-419E-8920-0FBFBD9EE082}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula1610_CalculadoraDojo", "Calculadora_Aula1610\Calculadora_Aula1610.vcxproj", "{C7DA900E-798D-419E-8920-0FBFBD9EE082}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula1610_Condicionais", "Aula1610_Condicionais\Aula1610_Condicionais.vcxproj", "{D0BB7CAD-BFFD-44CF-8971-3A1F1A38F03D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{C7DA900E-798D-419E-8920-0FBFBD9EE082}.Release|x64.Build.0 = Release|x64
 		{C7DA900E-798D-419E-8920-0FBFBD9EE082}.Release|x86.ActiveCfg = Release|Win32
 		{C7DA900E-798D-419E-8920-0FBFBD9EE082}.Release|x86.Build.0 = Release|Win32
+		{D0BB7CAD-BFFD-44CF-8971-3A1F1A38F03D}.Debug|x64.ActiveCfg = Debug|x64
+		{D0BB7CAD-BFFD-44CF-8971-3A1F1A38F03D}.Debug|x64.Build.0 = Debug|x64
+		{D0BB7CAD-BFFD-44CF-8971-3A1F1A38F03D}.Debug|x86.ActiveCfg = Debug|Win32
+		{D0BB7CAD-BFFD-44CF-8971-3A1F1A38F03D}.Debug|x86.Build.0 = Debug|Win32
+		{D0BB7CAD-BFFD-44CF-8971-3A1F1A38F03D}.Release|x64.ActiveCfg = Release|x64
+		{D0BB7CAD-BFFD-44CF-8971-3A1F1A38F03D}.Release|x64.Build.0 = Release|x64
+		{D0BB7CAD-BFFD-44CF-8971-3A1F1A38F03D}.Release|x86.ActiveCfg = Release|Win32
+		{D0BB7CAD-BFFD-44CF-8971-3A1F1A38F03D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

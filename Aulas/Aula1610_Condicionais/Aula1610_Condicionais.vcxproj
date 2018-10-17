@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{C7DA900E-798D-419E-8920-0FBFBD9EE082}</ProjectGuid>
+    <ProjectGuid>{D0BB7CAD-BFFD-44CF-8971-3A1F1A38F03D}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CalculadoraAula1610</RootNamespace>
+    <RootNamespace>Aula1610Condicionais</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
-    <ProjectName>Aula1610_CalculadoraDojo</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -155,7 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Aula1610_CalculadoraDojo.cpp" />
+    <ClCompile Include="Aula1610_Condicionais.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

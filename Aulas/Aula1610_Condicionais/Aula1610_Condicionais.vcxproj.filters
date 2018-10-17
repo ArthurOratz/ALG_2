@@ -23,7 +23,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="Aula1610_CalculadoraDojo.cpp">
+    <ClCompile Include="Aula1610_Condicionais.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>
